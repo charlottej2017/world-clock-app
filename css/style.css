@@ -51,8 +51,8 @@ select {
   font-weight: bold;
 }
 
-.time sm {
-  font-size: 36px;
+.time small {
+  font-size: 25px;
   vertical-align: middle;
   line-height: 48px;
 }
